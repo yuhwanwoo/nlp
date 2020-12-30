@@ -21,4 +21,7 @@ ipython_config.py
 *.tsv
 *.json
 *.npy
+
+data_out/
+
 # End of httpswww.toptal.comdevelopersgitignoreapijupyternotebooks
