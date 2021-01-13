@@ -26,5 +26,6 @@ ipython_config.py
 *.TTF
 
 data_out/
+data_in/
 
 # End of httpswww.toptal.comdevelopersgitignoreapijupyternotebooks
