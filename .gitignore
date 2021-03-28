@@ -28,4 +28,7 @@ ipython_config.py
 data_out/
 data_in/
 
+data_out2/
+data_in2/
+
 # End of httpswww.toptal.comdevelopersgitignoreapijupyternotebooks
